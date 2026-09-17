@@ -1,0 +1,6 @@
+{
+  "name": "تعلم ADB",
+  "description": "تطبيق تعليمي تفاعلي شامل باللغة العربية لاحتراف أوامر أندرويد Debug Bridge (ADB) مع محاكي طرفية وأدلة إعداد واختبارات تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
